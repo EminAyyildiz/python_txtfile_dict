@@ -1,5 +1,5 @@
 # python_txtfile_dict
-½To create a dictionary with the words in the txt file entered by the user and the number of repetitions of the words with python.
+#To create a dictionary with the words in the txt file entered by the user and the number of repetitions of the words with python.
 
 # Python ile kullanıcının girdiği txt dosyasındaki kelimeleri ve kelimelerin tekrar sayısı ile bir sözlük oluşturmak.
 # bu projenin genel amacı kullanıdan bir txt dosyası almak ve bu dosyanın kelimelerini analiz etmektir. bu projede txt dosyasındaki kelimeleri bir sözlüğe atadım. kelimelerin değererini ise bu kelimelerin dosya içerisinde kaç kez tekrar ettiği şekilde ayarladım.
